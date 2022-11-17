@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set this to your desired author footer for the print PDF generation
-AUTHORFOOTER="© 2020, Specify Your Name In Publish.sh"
+AUTHORFOOTER="© 2022, TMS"
 
 getlaborder() {
     grep -v '^#' ../lab-order.txt | paste -s -d ' ' - | sed 's/\.md /\.html /g;s/\.md$/\.html/' 
