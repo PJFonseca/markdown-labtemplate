@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Clean previous stuff
+rm -fr wiki print Workbook-??.pdf tmp_num
+
 # Set this to your desired author footer for the print PDF generation
 AUTHORFOOTER="© 2022, TMS"
 

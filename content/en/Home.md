@@ -1,6 +1,6 @@
 # Home
 
-## Welcome to the SANS SEC000 Lab Wiki!
+## Welcome to the SANS SEC000 Lab Wiki <i class='fa-duotone fa-euro-sign'></i>!
 
 This wiki is your guide to lab exercises in SANS SEC000. In order to keep labs
 current, to make them more accessible (cut and paste!), and to present the

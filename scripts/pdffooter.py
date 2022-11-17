@@ -4,7 +4,7 @@ import sys
 from fpdf import FPDF
 from PyPDF2 import PdfFileReader
 
-FONTPATH="/Users/jwright/Library/Fonts/OpenSans-Regular.ttf"
+FONTPATH="../content/fonts/open-sans-v17-latin-regular.ttf"
 footerstr=""
 
 class PDF(FPDF):
